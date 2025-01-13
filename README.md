@@ -41,10 +41,10 @@ Feel free to explore my repositories, open issues, or reach out if you'd like to
 
 ## 🤝 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 🌍 [Website/Portfolio](https://your-website.com)
-- 📧 [Email Me](mailto:your.email@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/johny-santu-808140220?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/) 
+- 🐦 [Twitter]()
+- 🌍 [Website/Portfolio]()
+- 📧 [Email Me](mailto:your johnmuturi014@gmail.com)
 
 
 ## 🔮 Fun Fact
