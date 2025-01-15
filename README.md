@@ -42,9 +42,9 @@ Feel free to explore my repositories, open issues, or reach out if you'd like to
 ## 🤝 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/johny-santu-808140220?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/) 
-- 🐦 [Twitter]()
-- 🌍 [Website/Portfolio]()
-- 📧 [Email Me](mailto:your johnmuturi014@gmail.com)
+- 🐦 [Twitter]
+- 🌍 [Portfolio]
+- 📧 [Email Me](johnmuturi014@gmail.com)
 
 
 ## 🔮 Fun Fact
