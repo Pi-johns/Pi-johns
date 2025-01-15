@@ -9,7 +9,7 @@ Feel free to explore my repositories, open issues, or reach out if you'd like to
 ## 📚 About Me
 
 - 🧑‍💻 **Full-Stack Developer** with a focus on modern web technologies.
-- 💻 Passionate about **JavaScript, Python, Node.js, and React**.
+- 💻 Passionate about **JavaScript and Python**.
 - 🌱 Currently learning **AI/ML** and **Blockchain**.
 - 🔥 Always experimenting with **new frameworks** and **dev tools**.
 - 🤝 Open to collaborations and contributions.
